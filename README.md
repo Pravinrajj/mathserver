@@ -132,4 +132,4 @@ urlpatterns = [
 ![HOME PAGE](./math.png)
 
 ## Result:
-The program for implementing server side processing is completed successfully
+The program for implementing server side processing is completed successfully.
